@@ -1,0 +1,17 @@
+**/node_modules/
+**/dist/*
+**/build/*
+**/.turbo/
+**/.next/
+dist/*
+.dev/
+.yarn/
+.vscode/
+.github/
+.husky/
+**/public/
+**/*.xml
+.local/
+local/
+**/storybook-static
+**/.cache

@@ -1,0 +1,19 @@
+# Ignore artifacts:
+build
+coverage
+.coverage
+.next
+.dev/
+bin
+data/
+node_modules
+public
+static
+backups
+.ignore
+ignore
+.cache
+.yarn
+dist/
+.turbo
+storybook-static
